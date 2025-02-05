@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name='clro',
-    version='0.0.1',
+    version='0.0.2',
     description='clear (shell) obj',
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/owopkg',
     packages=find_packages(exclude=[]),
-    install_requires=['subpr'],
+    install_requires=['owopkg'],
     keywords=['clear', 'cls', 'clr', 'obj', 'clrobj', 'clro'],
     python_requires='>=3.6',
     package_data={},
