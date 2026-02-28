@@ -13,6 +13,6 @@ input clrcmd : clear
 >>> -x
 ```
 
-## little dizzy
+## updated
 
-- owopkg extend toolkit (subpr using tool)
+- owopkg is not more included in this project.
