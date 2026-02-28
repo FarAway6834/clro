@@ -8,7 +8,7 @@ setup(
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/owopkg',
     packages=find_packages(exclude=[]),
-    install_requires=['owopkg'],
+    install_requires=['subpr'],
     keywords=['clear', 'cls', 'clr', 'obj', 'clrobj', 'clro'],
     python_requires='>=3.6',
     package_data={},
