@@ -16,3 +16,5 @@ input clrcmd : clear
 ## updated
 
 - [owopkg](https://faraway6834.github.io/owopkg) is not more included in this project.
+
+## [click to redirect repo page](https://github.com/FarAway6834/clro)
