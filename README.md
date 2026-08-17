@@ -15,4 +15,4 @@ input clrcmd : clear
 
 ## updated
 
-- owopkg is not more included in this project.
+- [owopkg](https://faraway6834.github.io/edprompt) is not more included in this project.
